@@ -1,0 +1,11 @@
+name: jeaneth-app
+description: app for jeaneth to send otto notifications
+version: 0
+environment:
+  sdk: ">=2.10.0<3.0.0"
+dependencies:
+  flutter:
+    sdk: flutter
+  firebase_core: latest_version
+  firebase_messaging: latest_version
+  http: latest_version
